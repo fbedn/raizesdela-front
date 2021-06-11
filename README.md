@@ -1,3 +1,5 @@
+Disponível em https://raizesdela.herokuapp.com/
+
 <h2>Status</h2>
 <a href="https://raizes-dela.herokuapp.com/home" target="_blank">✅Pronto✅</a> (aguarde novas atualizações...)
 
